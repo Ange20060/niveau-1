@@ -1,0 +1,44 @@
+INFO Démarrage de l'application
+INFO Connexion à la base de données réussie
+ERROR Impossible de charger le fichier de configuration
+INFO Nouvelle connexion utilisateur
+ERROR Échec de l'authentification
+INFO Requête traitée avec succès
+ERROR Serveur temporairement indisponible
+INFO Arrêt de l'application
+INFO Démarrage du serveur
+INFO Connexion à la base de données réussie
+INFO Chargement des paramètres
+INFO Vérification des utilisateurs
+ERROR Impossible de charger le fichier de configuration
+INFO Nouvelle connexion utilisateur
+INFO Requête GET /api/users
+ERROR Échec de l'authentification
+INFO Utilisateur connecté avec succès
+INFO Requête GET /api/products
+INFO Produit récupéré avec succès
+ERROR Impossible de contacter le serveur distant
+INFO Nouvelle commande créée
+INFO Paiement reçu
+ERROR Échec du traitement du paiement
+INFO Mise à jour du stock
+INFO Stock mis à jour avec succès
+ERROR Produit introuvable
+INFO Envoi de l'e-mail de confirmation
+INFO E-mail envoyé avec succès
+ERROR Échec de l'envoi de l'e-mail
+INFO Requête POST /api/orders
+INFO Commande enregistrée
+INFO Sauvegarde automatique effectuée
+ERROR Erreur lors de la sauvegarde
+INFO Nettoyage des fichiers temporaires
+INFO Tâche planifiée terminée
+ERROR Timeout de la requête
+INFO Redémarrage du service
+INFO Service redémarré avec succès
+ERROR Mémoire insuffisante
+INFO Nouvelle tentative de connexion
+INFO Connexion rétablie
+ERROR Base de données inaccessible
+INFO Vérification du système terminée
+INFO Arrêt du serveur
