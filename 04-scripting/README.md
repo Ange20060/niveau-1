@@ -7,6 +7,7 @@ Linux) et **Python** (le langage roi de l'automatisation et des outils DevOps).
 ## Objectifs
 
 À la fin, tu sauras :
+
 - écrire un script Bash avec variables, conditions et boucles ;
 - écrire un petit programme Python (variables, fonctions, fichiers) ;
 - automatiser une tâche répétitive de bout en bout.
@@ -67,6 +68,7 @@ ta première vraie automatisation DevOps.
 ## Auto-évaluation
 
 Sans notes :
+
 - À quoi sert le shebang `#!/bin/bash` ?
 - Comment un script Bash récupère-t-il un argument passé en ligne de commande ?
 - Écris (de tête) une boucle `for` en Bash ET en Python qui affiche les

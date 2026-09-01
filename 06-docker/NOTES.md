@@ -6,7 +6,9 @@
 ## Exercice 1 — Prise en main
 
 - Différence entre une image et un conteneur :
+-
 - Pourquoi `8080:80` et pas juste `80` ?
+-
 - Ce qui a coincé :
 
 ## Exercice 2 — Première image
@@ -33,4 +35,8 @@
 
 ## Bonus (facultatif)
 
--
+Différence entre une image et un conteneur :
+
+Une **image Docker** est un modèle contenant ce qui est nécessaire pour créer et exécuter une application.
+
+Un **conteneur** est une instance créée à partir d'une image et qui peut être démarrée, arrêtée ou supprimée.
