@@ -1,0 +1,19 @@
+name: Build Docker
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Récupérer le code
+        uses: actions/checkout@v4
+
+      - name: Construire l'image Docker
+        uses: docker/build-push-action@v6
+        with:
+          context: ./app
+          push: false
+          tags: mon-api:test
