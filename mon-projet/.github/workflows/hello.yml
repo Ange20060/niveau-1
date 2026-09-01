@@ -1,0 +1,11 @@
+name: Premier workflow
+
+on: push
+
+jobs:
+  hello:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Dire bonjour
+        run: echo "Salut depuis la CI !"
