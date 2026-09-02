@@ -8,6 +8,7 @@ tout le parcours.
 ## Objectifs
 
 À la fin, tu sauras :
+
 - expliquer ce qu'est le cloud et son modèle économique ;
 - distinguer VM et conteneur, et les grands types de services cloud ;
 - déployer ton application conteneurisée sur un serveur distant.
@@ -17,19 +18,16 @@ tout le parcours.
 1. **Le cloud, c'est quoi ?** L'idée de louer des ressources informatiques
    (serveurs, stockage, réseau) à la demande, plutôt que d'acheter et gérer ses
    propres machines. Le modèle « on paie ce qu'on utilise ».
-
 2. **Les grands acteurs :** AWS, Microsoft Azure, Google Cloud (GCP), et des
    acteurs plus simples/abordables pour débuter (cherche des fournisseurs avec
    une offre gratuite pour étudiant).
-
 3. **Les modèles de service :** IaaS, PaaS, SaaS — comprendre la différence
    (qui gère quoi).
-
 4. **VM vs conteneur (rappel et approfondissement) :** une VM émule une machine
    complète ; un conteneur partage le noyau de l'hôte. Quand utiliser l'un ou
    l'autre.
-
 5. **Déployer pour de vrai :**
+
    - louer/créer un petit serveur (une VM) chez un fournisseur ;
    - s'y connecter en **SSH** (partie 02 !) ;
    - y installer Docker ;
@@ -80,6 +78,7 @@ tournant sur une machine distante que tu administres toi-même.
 ## Auto-évaluation
 
 Sans notes :
+
 - Qu'est-ce que le cloud et quel est son modèle économique ?
 - Différence entre IaaS, PaaS et SaaS ?
 - Différence entre une VM et un conteneur ?
